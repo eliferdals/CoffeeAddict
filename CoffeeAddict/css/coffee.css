@@ -1,0 +1,33 @@
+h1,h2,h3{
+    color: #583101
+}
+a{
+    color:#6f4518
+}
+p{
+    color:#583101
+}
+body{
+    background-color: #ffedd8
+}
+/* #transparent img{ 
+    width:auto;
+    height:auto;
+    background-color:#ffedd8;
+    opacity:0.6;
+    filter:alpha(opacity=60);
+} */
+
+img {
+    border-radius: 30px;
+    }
+    .container {
+        margin: 33 33px;
+        border: 3px solid #583101;
+        padding: 33px;
+        display: inline-block;
+        border-radius: 33.3px;
+        margin-bottom: 33px;
+        background-color: #ffedd8;
+
+      }
